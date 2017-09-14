@@ -6,7 +6,7 @@ public class MainClass {
 		Bird bird = new Bird();
 		Dog dog = new Dog();
 		
-		System.out.println("");
+		System.out.println();
 		
 		animal.sleep();
 		animal.eat();
